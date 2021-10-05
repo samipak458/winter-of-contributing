@@ -109,7 +109,7 @@ p{
 </html>
 ```
 
-### Output
-![onDesktop&Laptops](https://mediaquery--samimunir2002.repl.co/onDesktops&Laptops.png)
+ ### Output
+![onDesktop&Laptop](https://mediaquery--samimunir2002.repl.co/onDesktops&Laptops.png)
 
 ![onMobiles](https://mediaquery--samimunir2002.repl.co/onMobiles.png)
